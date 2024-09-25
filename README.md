@@ -14,6 +14,9 @@ To run use
 
 streamlit run main.py
 
-It opens in the browser.
+It opens in the browser.![3ea2ce51-9be3-4198-bf8a-f8d18f39e990](https://github.com/user-attachments/assets/bf5c000d-3cc4-44ae-90bc-aa2394a5ac00)
+
+
+
 
 
